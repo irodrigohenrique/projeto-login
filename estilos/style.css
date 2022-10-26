@@ -5,3 +5,70 @@
     Verde: #49a09d
     Lilás: @5f2c82
 */
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #5f2c82;
+
+}
+
+
+
+main{
+    display: block;
+    text-align: center;
+    background-color: white;
+    width: 80vw;
+    height: 90vh;
+    margin: auto;
+    border-radius: 20px;
+    
+}
+
+
+
+#imagem img{
+    width: 320px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+#login{
+    display: block;
+}
+
+
+
+#formulario p {
+    font-size: 14px;
+    padding-bottom: 15px;
+}
+
+#formulario form input{
+    display: block;
+    margin: auto;
+    margin-bottom: 4px ;
+    padding: 7px 60px;
+    
+}
+
+
+#formulario form button{
+    padding: 7px 40px;
+    
+
+}
+
+#formulario a{
+    padding-top: 10px;
+    display: block;
+    font-size: 10px;
+    text-decoration: none;
+}
+
+
